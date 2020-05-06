@@ -15,12 +15,12 @@ remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "ko-kr"
+title                    : "ju's Tech Docs"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "seungjunou"
-description              : "An amazing website."
+description              : "A"
 url                      : "http://seungjunou.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seungju Nou"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : ""
+  location         : "Asia/Seoul"
+  email            : "noujj0221@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
